@@ -1,0 +1,22 @@
+{
+  "name": "hexo-translate-title-unchange",
+  "version": "1.0.11-3",
+  "description": "Translate the Chinese title in the Hexo blog into english",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "hexo",
+    "translate",
+    "permalink"
+  ],
+  "dependencies": {
+    "request": "2.88.0",
+    "request-promise": "4.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arkylin/hexo-translate-title-unchange"
+  },
+  "author": "Kylin",
+  "license": "MIT"
+}
