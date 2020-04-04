@@ -1,4 +1,5 @@
-源项目 https://github.com/cometlj/hexo-translate-title 直接下载经过部分修改再次上传，自用！详情见版本历程，修改版将在源项目版本号上面增加```-x```
+# 源项目 https://github.com/cometlj/hexo-translate-title
+直接下载经过部分修改再次上传，自用！详情见版本历程，修改版将在源项目版本号上面增加```-x```
 
 ## hexo-translate-title-unchange
 使用Google翻译，百度翻译和有道翻译将Hexo中的汉字标题转成英文标题，配置完成后直接翻译，无需手工修改标题内容
